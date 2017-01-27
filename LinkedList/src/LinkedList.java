@@ -1,4 +1,15 @@
 
+/*
+ * Author :- Siddharth Shah
+ *  
+ * Title:- Singly LinkedList
+ * 
+ * Referred from :- https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html
+ * 
+ * 
+ * */
+
+
 public class LinkedList<Type> {
 	
 	private Node<Type> head;
